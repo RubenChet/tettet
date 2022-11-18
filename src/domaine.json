@@ -1,0 +1,42 @@
+[
+    {
+        "Domaine" : "Stratégie",
+        "Text" : "",
+        "Code" : "STRATEGIE"
+    },
+    {
+        "Domaine" : "Spécifications",
+        "Text" : "",
+        "Code" : "SPECIFICATIONS"
+    },
+    {
+        "Domaine" : "UX/UI",
+        "Text" : "",
+        "Code" : "UX/UI"
+    },
+    {
+        "Domaine" : "Contenus",
+        "Text" : "",
+        "Code" : "CONTENUS"
+    },
+    {
+        "Domaine" : "Front-End",
+        "Text" : "",
+        "Code" : "FRONTEND"
+    },
+    {
+        "Domaine" : "Architecture",
+        "Text" : "",
+        "Code" : "ARCHITECTURE"
+    },
+    {
+        "Domaine" : "Back-end",
+        "Text" : "",
+        "Code" : "BACKEND"
+    },
+    {
+        "Domaine" : "Hébergement",
+        "Text" : "",
+        "Code" : "HEBERGEMENT"
+    }
+]
